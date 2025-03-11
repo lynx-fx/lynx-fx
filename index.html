@@ -3,17 +3,76 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Welcome to Lynx</title>
+    <title>Lynx Portfolio</title>
     <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
         body {
-            font-family: Arial, sans-serif;
+            font-family: 'Helvetica Neue', Arial, sans-serif;
+            background-color: #f8f9fa;
+            color: #333;
+            line-height: 1.6;
+            min-height: 100vh;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+        }
+        
+        .container {
             text-align: center;
-            padding: 50px;
+            padding: 2rem;
+            max-width: 800px;
+        }
+        
+        .logo {
+            font-size: 4rem;
+            font-weight: 700;
+            margin-bottom: 1rem;
+            color: #333;
+            letter-spacing: -1px;
+        }
+        
+        .message {
+            font-size: 1.5rem;
+            margin-bottom: 2rem;
+            color: #666;
+        }
+        
+        .divider {
+            width: 50px;
+            height: 4px;
+            background-color: #333;
+            margin: 2rem auto;
+        }
+        
+        .footer {
+            margin-top: 3rem;
+            font-size: 0.9rem;
+            color: #999;
+        }
+        
+        @media (max-width: 768px) {
+            .logo {
+                font-size: 3rem;
+            }
+            
+            .message {
+                font-size: 1.2rem;
+            }
         }
     </style>
 </head>
 <body>
-    <h1>Welcome to Lynx's Site!</h1>
-    <p>More coming soon...</p>
+    <div class="container">
+        <div class="logo">LYNX</div>
+        <div class="message">Content coming soon</div>
+        <div class="divider"></div>
+        <div class="footer">&copy; 2025 Lynx Portfolio</div>
+    </div>
 </body>
 </html>
