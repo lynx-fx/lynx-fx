@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [https://github.com/lynx-fx/TimeNest](https://github.com/lynx-fx/TimeNest)
 
-- 🌱 I’m currently learning **Express, React, JSP, Bash**
+- 🌱 I’m currently learning **CyberSecurity, Express, JSP, Bash**
 
 - 👨‍💻 All of my projects are available at [https://github.com/lynx-fx?tab=repositories](https://github.com/lynx-fx?tab=repositories)
 
