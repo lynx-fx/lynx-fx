@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on [CardKeeper](https://github.com/lynx-fx/CardKeeper)
 
-- 🌱 I’m currently exploring **Express**
+- 🌱 I’m currently exploring **Express and Next**
 
-- 👨‍💻 All of my projects are available at [https://github.com/lynx-fx?tab=repositories](https://github.com/lynx-fx?tab=repositories)
+- 👨‍💻 All of my projects are available [here.](https://github.com/lynx-fx?tab=repositories)
 
 - 📫 How to reach me **escnorfait@gmail.com**
 
