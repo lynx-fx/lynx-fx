@@ -1,15 +1,7 @@
-<h1 align="center">Hie, I'm Lynx</h1>
-<h3 align="center">Whispers of fleeting echos.</h3>
+<h1 align="center">Hie, I'm Sudarshan Gharti</h1>
+<h3 align="center">To each, their own.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lynx-fx&label=Profile%20views&color=0e75b6&style=flat" alt="lynx-fx" /> </p>
-
-- 🔭 I’m currently working on [CardKeeper](https://github.com/lynx-fx/CardKeeper)
-
-- 🌱 I’m currently exploring **Express and Next**
-
-- 👨‍💻 All of my projects are available [here.](https://github.com/lynx-fx?tab=repositories)
-
-- 📫 How to reach me **escnorfait@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
