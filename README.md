@@ -21,17 +21,17 @@
 
 ### **Frontend**
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,js,ts,html,css,sass" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,js,ts,html,css," />
 </p>
 
 ### **Backend**
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
 </p>
 
 ### **Tools & Others**
 <p>
-  <img src="https://skillicons.dev/icons?i=git,linux,postman,figma,python,java" />
+  <img src="https://skillicons.dev/icons?i=git,linux,postman,figma,dockker" />
 </p>
 
 ---
