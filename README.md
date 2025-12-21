@@ -21,7 +21,7 @@
 
 ### **Frontend**
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,js,ts,html,css," />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,js,ts" />
 </p>
 
 ### **Backend**
