@@ -31,7 +31,7 @@
 
 ### **Tools & Others**
 <p>
-  <img src="https://skillicons.dev/icons?i=git,linux,postman,figma,dockker" />
+  <img src="https://skillicons.dev/icons?i=git,linux,postman,figma,docker" />
 </p>
 
 ---
