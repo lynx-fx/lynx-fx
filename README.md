@@ -8,7 +8,7 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 - Full-stack developer focused on **Next.js**, **React**, and **Node.js**
 - I enjoy building clean, scalable, and user-centric web apps  
@@ -17,7 +17,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### **Frontend**
 <p>
@@ -36,7 +36,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=lynx-fx&show_icons=true&theme=transparent" />
@@ -49,7 +49,7 @@
 
 ---
 
-## 🌐 Connect With Me
+## Connect With Me
 
 <p>
   <a href="https://instagram.com/anup.archive" target="_blank">
@@ -58,7 +58,4 @@
 </p>
 
 ---
-
-## 🧩 Fun Fact
-I like building things that solve real problems—even small ones.
 
