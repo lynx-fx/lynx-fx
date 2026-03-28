@@ -36,19 +36,6 @@
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=lynx-fx&show_icons=true&theme=transparent" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lynx-fx&layout=compact&theme=transparent" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=lynx-fx&theme=transparent" />
-</p>
-
----
-
 ## Connect With Me
 
 <p>
