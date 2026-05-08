@@ -1,6 +1,6 @@
 <!-- Banner -->
 <h1 align="center"> Hie, I'm Sudarshan Gharti</h1>
-<h3 align="center">Full-Stack Web Developer • MERN & Next.js</h3>
+<h3 align="center">Full-Stack Web Developer • NextJs & NestJs</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=lynx-fx&label=Profile%20Views&color=0e75b6&style=flat" />
@@ -10,7 +10,7 @@
 
 ## About Me
 
-- Full-stack developer focused on **Next.js**, **React**, and **Node.js**
+- Full-stack developer focused on **NextJs**, **NestJs**, **Node.js** and **Postgres**
 - I enjoy building clean, scalable, and user-centric web apps  
 - Passionate about system design, UI polish, and making things actually useful  
 - Always learning and exploring new technologies  
@@ -26,12 +26,12 @@
 
 ### **Backend**
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres,nest" />
 </p>
 
 ### **Tools & Others**
 <p>
-  <img src="https://skillicons.dev/icons?i=git,linux,postman,figma,docker" />
+  <img src="https://skillicons.dev/icons?i=git,linux,postman,figma,docker,nginx" />
 </p>
 
 ---
